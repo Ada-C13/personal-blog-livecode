@@ -1,0 +1,25 @@
+.content-container {
+  padding: 5rem;
+}
+
+#page-title-container {
+  display: flex;
+
+  justify-content: center;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+.blog-post {
+  margin-bottom: 5rem;
+}
+
+.blog-post h2 {
+  font-style: italic;
+}
+
+time {
+  color: #CE7DA5;
+}

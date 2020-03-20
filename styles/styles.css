@@ -1,0 +1,21 @@
+body {
+  background-color: #DFF3E3;
+  color: #493657;
+  font-family: 'Glegoo', serif;
+}
+
+a {
+  color: #493657;
+}
+
+nav {
+  grid-column-end: span 2;
+}
+
+.nav-item-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+
+  list-style-type: none;
+}
